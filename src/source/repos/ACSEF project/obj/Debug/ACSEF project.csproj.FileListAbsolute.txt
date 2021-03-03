@@ -1,0 +1,15 @@
+C:\Users\Satish\source\repos\ACSEF project\bin\Debug\ACSEF project.exe.config
+C:\Users\Satish\source\repos\ACSEF project\bin\Debug\ACSEF project.exe
+C:\Users\Satish\source\repos\ACSEF project\bin\Debug\ACSEF project.pdb
+C:\Users\Satish\source\repos\ACSEF project\obj\Debug\ACSEF_project.Form2.resources
+C:\Users\Satish\source\repos\ACSEF project\obj\Debug\ACSEF_project.Form1.resources
+C:\Users\Satish\source\repos\ACSEF project\obj\Debug\ACSEF_project.Form3.resources
+C:\Users\Satish\source\repos\ACSEF project\obj\Debug\ACSEF_project.Form4.resources
+C:\Users\Satish\source\repos\ACSEF project\obj\Debug\ACSEF_project.Form5.resources
+C:\Users\Satish\source\repos\ACSEF project\obj\Debug\ACSEF_project.Form6.resources
+C:\Users\Satish\source\repos\ACSEF project\obj\Debug\ACSEF_project.Form7.resources
+C:\Users\Satish\source\repos\ACSEF project\obj\Debug\ACSEF_project.Properties.Resources.resources
+C:\Users\Satish\source\repos\ACSEF project\obj\Debug\ACSEF project.csproj.GenerateResource.cache
+C:\Users\Satish\source\repos\ACSEF project\obj\Debug\ACSEF project.csproj.CoreCompileInputs.cache
+C:\Users\Satish\source\repos\ACSEF project\obj\Debug\ACSEF project.exe
+C:\Users\Satish\source\repos\ACSEF project\obj\Debug\ACSEF project.pdb
